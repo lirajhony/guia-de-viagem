@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia de Viagem: Curitiba a Porto Velho</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #444;
+        }
+        .day-section {
+            margin-bottom: 40px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .observations {
+            background-color: #eee;
+            padding: 10px;
+            margin: 20px 0;
+            border-left: 4px solid #333;
+        }
+        .container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        @media screen and (max-width: 768px) {
+            header, nav, footer {
+                padding: 10px;
+                text-align: center;
+            }
+            nav a {
+                display: block;
+                margin: 5px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Guia de Viagem: Curitiba a Porto Velho</h1>
+    </header>
+
+    <nav>
+        <a href="#dia1">Dia 1</a>
+        <a href="#dia2">Dia 2</a>
+        <a href="#dia3">Dia 3</a>
+        <a href="#dia4">Dia 4</a>
+        <a href="#volta">Volta</a>
+        <a href="#conclusao">Conclusão</a>
+    </nav>
+
+    <div class="container">
+        <section id="dia1" class="day-section">
+            <h2>Dia 1: Curitiba, PR a Dourados, MS</h2>
+            <h3>Roteiro</h3>
+            <p><strong>Distância:</strong> Aproximadamente 810 km</p>
+            <p><strong>Tempo Estimado de Viagem:</strong> 11 horas (incluindo paradas)</p>
+            <p><strong>Melhores Estradas:</strong> BR-277 até Cascavel e BR-163 até Dourados.</p>
+            
+            <h3>Sugestões de Parada</h3>
+            <p><strong>Hotel:</strong> <em>Ellus Hotel</em></p>
+            <p><strong>Localização:</strong> Dourados, MS</p>
+            <p><strong>Custo:</strong> Aproximadamente R$ 250,00 por quarto</p>
+            <p><strong>Benefícios:</strong> Café da manhã incluso, estacionamento gratuito.</p>
+            
+            <h3>Pontos Turísticos Próximos</h3>
+            <p><strong>Praça Antônio João:</strong> Local agradável para uma caminhada noturna.</p>
+            <p><strong>Shopping Avenida Center:</strong> Ideal para refeição ou compras de última hora.</p>
+            
+            <div class="observations">
+                <h3>Observações Importantes</h3>
+                <p><strong>Cuidados com o Trânsito:</strong> A BR-163 pode ter trânsito pesado de caminhões.</p>
+                <p><strong>Manutenção:</strong> Verifique a calibragem dos pneus e o nível de combustível em Cascavel.</p>
+            </div>
+        </section>
+
+        <section id="dia2" class="day-section">
+            <h2>Dia 2: Dourados, MS a Rondonópolis, MT</h2>
+            <h3>Roteiro</h3>
+            <p><strong>Distância:</strong> Aproximadamente 780 km</p>
+            <p><strong>Tempo Estimado de Viagem:</strong> 10 horas (incluindo paradas)</p>
+            <p><strong>Melhores Estradas:</strong> BR-163 em direção ao norte, passando por Campo Grande. BR-364 até Rondonópolis.</p>
+            
+            <h3>Sugestões de Parada</h3>
+            <p><strong>Hotel:</strong> <em>Comfort Hotel & Suites</em></p>
+            <p><strong>Localização:</strong> Rondonópolis, MT</p>
+            <p><strong>Custo:</strong> Aproximadamente R$ 300,00 por quarto</p>
+            <p><strong>Benefícios:</strong> Café da manhã incluso, piscina, academia, estacionamento gratuito.</p>
+            
+            <h3>Pontos Turísticos Próximos</h3>
+            <p><strong>Parque Ecológico João Basso:</strong> Um bom local para relaxar.</p>
+            <p><strong>Praça Brasil:</strong> Praça central com restaurantes e opções de lazer.</p>
+            
+            <div class="observations">
+                <h3>Observações Importantes</h3>
+                <p><strong>Cuidado com Animais na Estrada:</strong> Principalmente ao anoitecer, fique atento a animais silvestres na BR-163.</p>
+                <p><strong>Abastecimento:</strong> Reabasteça o carro em Campo Grande.</p>
+            </div>
+        </section>
+
+        <section id="dia3" class="day-section">
+            <h2>Dia 3: Rondonópolis, MT a Vilhena, RO</h2>
+            <h3>Roteiro</h3>
+            <p><strong>Distância:</strong> Aproximadamente 820 km</p>
+            <p><strong>Tempo Estimado de Viagem:</strong> 11 horas (incluindo paradas)</p>
+            <p><strong>Melhores Estradas:</strong> BR-364 diretamente até Vilhena.</p>
+            
+            <h3>Sugestões de Parada</h3>
+            <p><strong>Hotel:</strong> <em>Hotel Colorado</em></p>
+            <p><strong>Localização:</strong> Vilhena, RO</p>
+            <p><strong>Custo:</strong> Aproximadamente R$ 280,00 por quarto</p>
+            <p><strong>Benefícios:</strong> Café da manhã incluso, estacionamento seguro.</p>
+            
+            <h3>Pontos Turísticos Próximos</h3>
+            <p><strong>Praça Nossa Senhora Aparecida:</strong> Um local tranquilo no centro de Vilhena.</p>
+            <p><strong>Museu Marechal Rondon:</strong> Para quem gosta de história, com uma pequena exposição sobre a região.</p>
+            
+            <div class="observations">
+                <h3>Observações Importantes</h3>
+                <p><strong>Pontos de Apoio:</strong> Pare em cidades como Primavera do Leste para descansar e reabastecer.</p>
+                <p><strong>Estrada Longa:</strong> Esse trecho é longo e rural; planeje paradas para evitar fadiga.</p>
+            </div>
+        </section>
+
+        <section id="dia4" class="day-section">
+            <h2>Dia 4: Vilhena, RO a Porto Velho, RO</h2>
+            <h3>Roteiro</h3>
+            <p><strong>Distância:</strong> Aproximadamente 720 km</p>
+            <p><strong>Tempo Estimado de Viagem:</strong> 10 horas (incluindo paradas)</p>
+            <p><strong>Melhores Estradas:</strong> BR-364 até Porto Velho.</p>
+            
+            <h3>Sugestões de Parada</h3>
+            <p><strong>Chegada:</strong> Porto Velho, RO</p>
+            <p><strong>Hotel Recomendado:</strong> <em>Oscar Hotel Executive</em></p>
+            <p><strong>Custo:</strong> Aproximadamente R$ 350,00 por quarto</p>
+            <p><strong>Benefícios:</strong> Café da manhã incluso, piscina, Wi-Fi gratuito, localização central.</p>
+            
+            <h3>Pontos Turísticos Próximos</h3>
+            <p><strong>Estrada de Ferro Madeira-Mamoré:</strong> Um marco histórico de Porto Velho, ideal para visitar logo após a chegada.</p>
+            <p><strong>Praça Três Caixas D'Água:</strong> Um símbolo da cidade, ótimo para fotografias.</p>
+            
+            <div class="observations">
+                <h3>Observações Importantes</h3>
+                <p><strong>Trânsito em Porto Velho:</strong> O tráfego pode ser intenso na entrada da cidade. Mantenha-se atento aos sinais de trânsito.</p>
+                <p><strong>Última Revisão:</strong> Ao chegar em Porto Velho, aproveite para realizar uma revisão no veículo para garantir que tudo está em ordem para a viagem de volta.</p>
+            </div>
+        </section>
+
+        <section id="volta" class="day-section">
+            <h2>Viagem de Volta: Porto Velho, RO a Curitiba, PR</h2>
+            <h3>Roteiro</h3>
+            <p>A viagem de volta segue o mesmo roteiro da ida, mas em ordem inversa:</p>
+            <ul>
+                <li>Porto Velho → Vilhena</li>
+                <li>Vilhena → Rondonópolis</li>
+                <li>Rondonópolis → Dourados</li>
+                <li>Dourados → Curitiba</li>
+            </ul>
+        </section>
+
+        <section id="conclusao" class="day-section">
+            <h2>Conclusão</h2>
+            <p>Este guia oferece um planejamento detalhado para sua viagem de Curitiba a Porto Velho, garantindo uma experiência confortável e econômica. A escolha de hotéis com bom custo-benefício e a seleção de pontos turísticos próximos ao trajeto proporcionam uma viagem agradável, enquanto as recomendações de estradas e cuidados ao longo do caminho asseguram uma jornada segura.</p>
+            <h3>Sugestões de Economia</h3>
+            <ul>
+                <li><strong>Combustível:</strong> Utilize aplicativos para encontrar o combustível mais barato ao longo do trajeto.</li>
+                <li><strong>Hospedagem:</strong> Procure por ofertas de última hora em aplicativos de reservas para conseguir melhores preços nos hotéis.</li>
+                <li><strong>Alimentação:</strong> Leve lanches e bebidas comprados em mercados locais para reduzir os gastos em restaurantes.</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Guia de Viagem - Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
